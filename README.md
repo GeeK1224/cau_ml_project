@@ -6,4 +6,5 @@
 | 1. | Asadbek Fazliddinov |
 | 2. | Timur Urunbaev |
 
-[kaggle_competition](https://www.kaggle.com/competitions/cau-ml-challenge-final-2023/overview)https://www.kaggle.com/competitions/cau-ml-challenge-final-2023/overview)
+[kaggle_competition](https://www.kaggle.com/competitions/cau-ml-challenge-final-2023/overview)
+
